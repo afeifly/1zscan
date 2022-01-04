@@ -1,0 +1,3 @@
+<!--miniprogram/pages/bussiness/bussi.wxml-->
+<text>miniprogram/pages/bussiness/bussi.wxml</text>
+<text>好友请您确认一笔交易 {{id}}</text>

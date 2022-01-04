@@ -1,0 +1,5 @@
+<!--miniprogram/pages/1zscan/1zscan.wxml-->
+<text>miniprogram/pages/1zscan/1zscan.wxml</text>
+<view><text>你扫到的是{{scanType}}码</text></view>
+<view><text>内容为：{{result}}</text></view>
+<button type="primary" bindtap="scanCode">扫码</button>

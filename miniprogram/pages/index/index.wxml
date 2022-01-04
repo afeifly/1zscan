@@ -1,0 +1,4 @@
+<!--miniprogram/pages/main/main.wxml-->
+<view class='imagesize'>
+  <image src='../../images/B66802845.jpeg' class='in-image'></image>
+</view>
