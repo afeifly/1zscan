@@ -25,7 +25,7 @@ Page({
       wx.reLaunch({
         url: '../enter/enter'
       })
-      }, 3000);
+      }, 1000);
   },
 
   /**

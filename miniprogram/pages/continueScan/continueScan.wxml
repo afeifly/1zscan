@@ -1,0 +1,11 @@
+<!--pages/continueScan/continueScan.wxml-->
+<text>pages/continueScan/continueScan.wxml</text>
+<camera mode="scanCode" device-position="back" binderror="error" style="width: 100%; height: 300px;" 
+flash="off"
+
+bindscancode="takeCode" 
+scan-area="[0,0,200, 200]"
+>
+
+  <button type="primary" bindtap="test3">test</button>
+</camera>

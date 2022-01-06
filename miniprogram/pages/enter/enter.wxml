@@ -56,14 +56,12 @@
     </navigator>
   </view>
   <view class="uploader">
-    <navigator url="../1zscan/1zscan" open-type="navigate" class="uploader-text">
+    <navigator url="../continueScan/continueScan" open-type="navigate" class="uploader-text">
       <text>连续扫码</text>
     </navigator>
   </view>
   <!-- 云调用 -->
-  <view class="uploader">
     <button type="primary" bindtap="testdownload">下载测试</button>
-  </view>
   <view class="uploader">
     <navigator url="../bussiness/bussi" open-type="navigate" class="uploader-text">
       <text>just test</text>
